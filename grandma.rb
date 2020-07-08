@@ -4,7 +4,7 @@ def speak_to_grandma(phrase)
   elsif phrase == "Hi Nana, how are you?"
     returns "HUH?! SPEAK UP, SONNY!"
   else phrase == "Hi!"
-      return "HUH?! SPEAK UP, SONNY!""
+      return "HUH?! SPEAK UP, SONNY!"
   else phrase == phrase.downcase
     return "HUH?! SPEAK UP, SONNY!"
   else phrase == phrase.upcase
