@@ -7,6 +7,9 @@ else phrase == phrase.upcase
   return "NO, NOT SINCE 1938!"
 end
 
+end
+
+speak_to_grandma()
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
